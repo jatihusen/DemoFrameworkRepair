@@ -1,0 +1,29 @@
+[Label 3 - 60 KM Traffic Sign]
+Accuracy: 99.73%
+Precision: 96.33%
+Recall: 92.10%
+
+[Label 4 - 70 KM Traffic Sign]
+Accuracy: 99.99%
+Precision: 100.00%
+Recall: 99.46%
+
+[Label 5 - 80 KM Traffic Sign]
+Accuracy: 99.66%
+Precision: 95.67%
+Recall: 89.26%
+
+[Label 6 - 90 KM Traffic Sign]
+Accuracy: 99.97%
+Precision: 100.00%
+Recall: 98.82%
+
+[Label 7 - 100 KM Traffic Sign]
+Accuracy: 99.75%
+Precision: 96.10%
+Recall: 93.08%
+
+[Label 8 - 120 KM Traffic Sign]
+Accuracy: 99.75%
+Precision: 95.86%
+Recall: 93.37%
